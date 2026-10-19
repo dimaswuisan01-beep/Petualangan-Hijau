@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Fotosintesis: Misi Hijau",
+  "description": "Media pembelajaran interaktif dan kuis sains fotosintesis kelas IV SD dengan 8 karakter sahabat fotosintesis dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
